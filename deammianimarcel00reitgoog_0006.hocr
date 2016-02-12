@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deammianimarcel00reitgoog_0006.png"; bbox 0 0 3282 4918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 187 843 1507 1444">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 187 697 1507 1510">
+     <span class='ocr_line' id='line_1_1' title="bbox 187 843 1507 1097; baseline 0.009 -88"><span class='ocrx_word' id='word_1_1' title='bbox 187 915 192 926; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 332 847 812 1022; x_wconf 83' lang='grc' dir='ltr'>ΑΜΜΙΑΝΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 855 843 1507 1097; x_wconf 80' lang='lat' dir='ltr'><strong>MARCELLINI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 496 1255 1343 1444; baseline 0.016 -48.382"><span class='ocrx_word' id='word_1_4' title='bbox 496 1256 610 1410; x_wconf 79' lang='lat' dir='ltr'><strong>usu</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 658 1256 981 1410; x_wconf 68' lang='lat' dir='ltr'><strong>olzffloffls</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1029 1255 1343 1444; x_wconf 63' lang='lat' dir='ltr'>ossfflouffl.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 621 1834 1177 1961">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 621 1834 1177 1961">
+     <span class='ocr_line' id='line_1_3' title="bbox 621 1834 1177 1961; baseline 0.005 -3"><span class='ocrx_word' id='word_1_7' title='bbox 621 1835 873 1961; x_wconf 67' lang='lat' dir='ltr'>fflssfflffl</span> <span class='ocrx_word' id='word_1_8' title='bbox 922 1834 1177 1960; x_wconf 73' lang='lat' dir='ltr'><strong>[NAHGURAL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 866 2037 968 2100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 866 2037 968 2100">
+     <span class='ocr_line' id='line_1_4' title="bbox 866 2037 968 2100; baseline -0.02 -12"><span class='ocrx_word' id='word_1_9' title='bbox 866 2037 968 2100; x_wconf 80' lang='lat' dir='ltr'><strong>QUAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 120 2153 1434 2254">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 120 2082 1434 2301">
+     <span class='ocr_line' id='line_1_5' title="bbox 120 2153 1434 2254; baseline 0.009 -15"><span class='ocrx_word' id='word_1_10' title='bbox 120 2201 124 2220; x_wconf 24' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_11' title='bbox 394 2153 470 2246; x_wconf 77' lang='lat' dir='ltr'><strong>An</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 490 2155 701 2252; x_wconf 65' lang='lat' dir='ltr'><strong>sums</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 718 2157 1165 2254; x_wconf 57' lang='lat' dir='ltr'><strong>IN&#39;PHILOSOPHIA</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1184 2155 1434 2251; x_wconf 76' lang='lat' dir='ltr'>HONORES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1646 4918">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1646 4918">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1646 4918; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1646 4918; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
